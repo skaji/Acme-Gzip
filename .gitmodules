@@ -1,0 +1,3 @@
+[submodule "gzip-cpp"]
+	path = gzip-cpp
+	url = https://github.com/skaji/gzip-cpp
